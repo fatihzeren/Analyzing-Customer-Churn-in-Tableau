@@ -1,0 +1,2 @@
+# Analyzing-Customer-Churn-in-Tableau
+In this Tableau case study, I researched a dataset from a sample telecom company named Databel and analyzed their loss rates. By using the churn rate, it means not only knowing what the churn rate is: I was also interested in figuring out how customers lost at the rate they caused it, and how to reduce the loss. I've created calculated fields and various visualizations in Tableau, such as biaxial charts and scatter charts.
